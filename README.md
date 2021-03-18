@@ -1,5 +1,4 @@
-# Team-Managment
-The Five Pitales
+
 ## Team-Agreement 
 ### Five Petals Group: Hamza Qahoush/Nemaa Al Qetami/Hanan altobasi/Yazan Baker /Bara'a Jahmani
 
